@@ -1,0 +1,9 @@
+{
+  "name": "dawlet",
+  "version": "0.0.1",
+  "description": "An ecosystem of tiny DAWs",
+  "main": "index.js",
+  "repository": "https://github.com/dawlet-team/dawlet.git",
+  "author": "dawlet-team",
+  "license": "MIT"
+}
