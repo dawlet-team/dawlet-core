@@ -1,0 +1,8 @@
+{
+  "name": "midilet",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "dawlet-team",
+  "license": "MIT",
+  "private": true
+}
